@@ -1,5 +1,5 @@
 - Hi, I’m @JamesHansIV
-- I’m currently learning Node.JS, React.JS, c++, SFML
+- I’m currently learning Node.JS, React, c++, SFML
 - How to reach me jameshanselmaniv@ku.edu
 
 <!---
