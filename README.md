@@ -1,5 +1,5 @@
 - Hi, I’m @JamesHansIV
-- I’m currently learning Node.JS, React, c++, SFML
+- Junior at the University of Kansas, BS Computer Science, Minor Mathemeatics
 - How to reach me jameshanselmaniv@ku.edu
 
 <!---
