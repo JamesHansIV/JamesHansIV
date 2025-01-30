@@ -1,4 +1,4 @@
-- Hi, I’m @JamesHansIV
+<!-- - Hi, I’m @JamesHansIV
 - Junior at the University of Kansas, BS Computer Science, 2024 Grad
 - How to reach me jameshanselmaniv@ku.edu
 
